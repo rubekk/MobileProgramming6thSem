@@ -66,4 +66,8 @@
     <string name="and">and</string>
     <string name="privacy_policy">Privacy Policy</string>
     <string name="terms_of_servicee">Terms of Service</string>
+    <string name="search_for_the_products">Search for the products</string>
+    <string name="click_me">CLICK ME</string>
+    <string name="hello_everyone">Hello Everyone!</string>
+    <string name="productsearch">Search for the products</string>
 </resources>
